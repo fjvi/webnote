@@ -1,0 +1,7 @@
+name = "webnote"
+pages_build_output_dir = "." # 静态资源目录（如果 index.html 在根目录）
+
+[[d1_databases]]
+binding = "DB"
+database_name = "webnote-db"
+database_id = "你的D1数据库ID"
